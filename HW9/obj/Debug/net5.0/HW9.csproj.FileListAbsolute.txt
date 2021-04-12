@@ -1,0 +1,15 @@
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.AssemblyInfoInputs.cache
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.AssemblyInfo.cs
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.exe
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.deps.json
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.runtimeconfig.json
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.runtimeconfig.dev.json
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.dll
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\ref\HW9.dll
+C:\Users\Илья\Documents\HW9\HW9\bin\Debug\net5.0\HW9.pdb
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.dll
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\ref\HW9.dll
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.pdb
+C:\Users\Илья\Documents\HW9\HW9\obj\Debug\net5.0\HW9.genruntimeconfig.cache
